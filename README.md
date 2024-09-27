@@ -1,1 +1,1 @@
-# this project is about a simplel page
+# This project is about a simplel page
