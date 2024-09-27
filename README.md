@@ -1,1 +1,1 @@
-# repo02-for-simplel-page
+# this project is about a simplel page
